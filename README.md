@@ -17,9 +17,5 @@ La aplicación puede solicitar permisos como:
 
 No usamos permisos adicionales ni accedemos a datos fuera de los estrictamente necesarios.
 
-## 4. Seguridad
-Tus datos permanecen en tu dispositivo. No se transmiten a terceros.
-
-
 ## 6. Contacto
-Si tienes preguntas, contáctanos en: **[TU CORREO]**
+Si tienes preguntas, contáctame: bryanhk18@gmail.com
